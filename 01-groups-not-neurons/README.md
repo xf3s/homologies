@@ -24,7 +24,7 @@
 
 - **All three registered predictions held:** few twins (3%), mostly partnered groups (63–70%), and a gap of 60+ points between them.
 - **Twins sit at the same depth.** 52–61% of twins are in the same layer of their two models; chance would be about 8%. None sit at the same index, as you'd expect from unrelated starts.
-- **An example.** Neuron 1063 of layer 8 in one run and neuron 1663 of layer 8 in another correlate at 0.98. Both fire on Danish and Norwegian verbs right after a subject: *Det skal[ være]*, *Han[ har]*, *i februar i år[ har]*. Two networks with no shared ancestry each grew the same little Scandinavian-grammar cell, at the same depth. Most of the strongest twins are simpler: layer-0 detectors for a newline (r 0.996) or a two-digit number (r 0.988).
+- **An example.** Neuron 1063 of layer 8 in one run and neuron 1663 of layer 8 in another correlate at 0.98. Both fire on Danish and Norwegian verbs (*har*, *er*, *være*, *få*): *Det skal[ være]*, *Han[ har]*, *i februar i år[ har]*. Two networks with no shared ancestry each grew the same little Scandinavian-grammar cell, at the same depth. Most of the strongest twins are simpler: layer-0 detectors for a newline (r 0.996) or a two-digit number (r 0.988).
 
 ## The checks that could have broken it
 
