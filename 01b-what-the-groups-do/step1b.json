@@ -1,0 +1,83 @@
+{
+ "partner_rate_by_kind_x_side": {
+  "A-B": {
+   "SYMBOLS": 0.6473737888832228,
+   "CODE": 0.47163420829805247,
+   "MATH": null,
+   "PROSE": 0.6343679326210715,
+   "MIXED": 0.5718194254445964
+  },
+  "A-C": {
+   "SYMBOLS": 0.591152473227945,
+   "CODE": 0.8636748518204911,
+   "MATH": null,
+   "PROSE": 0.6860719020510021,
+   "MIXED": 0.8057455540355677
+  },
+  "B-C": {
+   "SYMBOLS": 0.799501377771946,
+   "CODE": 0.6964028776978417,
+   "MATH": null,
+   "PROSE": 0.6633254495626384,
+   "MIXED": 0.7906855049712193
+  }
+ },
+ "layers_x_side": {
+  "A-B": {
+   "early 0-3": [
+    8288,
+    12288
+   ],
+   "late 8-11": [
+    7442,
+    12288
+   ]
+  },
+  "A-C": {
+   "early 0-3": [
+    9641,
+    12288
+   ],
+   "late 8-11": [
+    7719,
+    12288
+   ]
+  },
+  "B-C": {
+   "early 0-3": [
+    8417,
+    12288
+   ],
+   "late 8-11": [
+    8631,
+    12288
+   ]
+  }
+ },
+ "sizes": {
+  "A-B": {
+   "groups_partnered": 154,
+   "groups_unpartnered": 146,
+   "median_size_partnered": 125.0,
+   "median_size_unpartnered": 97.5,
+   "not_english_groups": 10,
+   "not_english_partnered": 5
+  },
+  "A-C": {
+   "groups_partnered": 161,
+   "groups_unpartnered": 139,
+   "median_size_partnered": 127.0,
+   "median_size_unpartnered": 90.0,
+   "not_english_groups": 10,
+   "not_english_partnered": 7
+  },
+  "B-C": {
+   "groups_partnered": 166,
+   "groups_unpartnered": 134,
+   "median_size_partnered": 140.5,
+   "median_size_unpartnered": 68.5,
+   "not_english_groups": 15,
+   "not_english_partnered": 10
+  }
+ }
+}

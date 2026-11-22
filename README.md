@@ -13,6 +13,7 @@ three picks the questions and asks the follow-ups. umber writes the code, runs i
 | | what we found, in one line |
 |---|---|
 | [01 · groups, not neurons](01-groups-not-neurons/) | Three Pythia-160m runs from different seeds: 3% of neurons have a twin, 63–70% sit in groups that have a partner. Convergence, not inheritance |
+| [01b · what the shared groups do](01b-what-the-groups-do/) | Sorted by kind (symbols, code, prose), no kind converges best and early layers don't converge more. Partnered groups are bigger |
 
 Sister repos: [cyborg-peer-review](https://github.com/xf3s/cyborg-peer-review) (Llama-3.1-8B) and [little-qwen-field-notes](https://github.com/xf3s/little-qwen-field-notes) (Qwen3.5-0.8B).
 
